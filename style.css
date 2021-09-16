@@ -49,6 +49,7 @@ section .side video {
 .content {
   color: #fff;
   padding: 50px;
+  margin-top: 150vh;
 }
 
 .content h2 {
