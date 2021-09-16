@@ -21,6 +21,23 @@ section {
   pointer-events: none;
 }
 
+section .side {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+section .side video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .content {
   color: #fff;
   padding: 50px;
